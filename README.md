@@ -1,4 +1,10 @@
-### Hi there 👋
+**<** Hello, I'm <b>Matheus! <br></b>
+**<** I'm a computation student based in **Brazil**.
+<br><br>
+**<** **Currently working on:**
+- Web frontend development with Javascript
+- Server-side applcations in Node.js environments
+- Native computer code using C/C++
 
 <!--
 **MACARVALH0/MACARVALH0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

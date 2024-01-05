@@ -3,7 +3,7 @@
 <br><br>
 **<** **Currently working on:**
 - Web frontend development with Javascript
-- Server-side applcations in Node.js environments
+- Server-side applications in Node.js environments
 - Native computer code using C/C++
 
 <!--

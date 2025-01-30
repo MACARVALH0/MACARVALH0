@@ -1,5 +1,5 @@
 **<** Hello, I'm <b>Matheus!<br></b>
-**<** I'm a computation student based in **Brazil**.
+**<** I'm a software development student based in **Brazil**.
 <br><br>
 
 <!--

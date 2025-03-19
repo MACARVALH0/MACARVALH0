@@ -1,6 +1,13 @@
-**<** Hello, I'm <b>Matheus!<br></b>
-**<** I'm a software development student based in **Brazil**.
+# whoami
+**<** Hello, I'm <b>Matheus Carvalho</b>!<br>
+**<** I'm a junior software development student based in **Brazil**.
 <br><br>
+
+## My stack
+> **Front-end**: JavasScript | C | C++ | Java<br>
+> **Back-end**: Node.JS<br>
+
+Most of my coding experience is in **front-end web development**, but I particularly enjoy working with **backend** and **native** development.<br>My goal is **to become an experienced backend developer** building fast and efficient code who is able to turn concepts into programs that can actually **influence people's experience for the better**.
 
 <!--
 **MACARVALH0/MACARVALH0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

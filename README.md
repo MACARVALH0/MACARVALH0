@@ -4,7 +4,7 @@
 <br><br>
 
 ## My stack
-> **Front-end**: JavasScript | C | C++ | Java<br>
+> **Front-end**: JavaScript | C | C++ | PHP | Java<br>
 > **Back-end**: Node.JS<br>
 
 Most of my coding experience is in **front-end web development**, but I particularly enjoy working with **backend** and **native** development.<br>My goal is **to become an experienced backend developer** building fast and efficient code who is able to turn concepts into programs that can actually **influence people's experience for the better**.

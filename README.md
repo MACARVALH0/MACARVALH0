@@ -1,7 +1,6 @@
 # whoami
 **<** I'm a junior-level Software Developer from **Brazil**.<br>
 **<** Front-end | Back-end | Fullstack
-<br><br>
 
 ## My skills
 ### Languages
